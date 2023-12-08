@@ -1,0 +1,68 @@
+.navbar{
+    font-family: 'Oswald', sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+    /* ad6c60 */
+}
+body{
+    background-color: #f2f2f2 !important;
+    overflow-x: hidden;
+}
+.raleway{
+ 
+    font-family: 'Raleway'; 
+}
+a {
+    text-decoration: none !important;
+  }
+ .dr{
+    color: white;
+ }
+ a:hover{
+    color:#ad6c60 !important;
+ }
+ .card-title{
+    font-family: 'Raleway', sans-serif;
+ }
+ .mt-7{
+    margin-top: 6rem;
+ }
+ .row{
+    
+    font-family: 'Oswald', sans-serif;
+  
+ }
+ .osw{
+    
+    font-family: 'Oswald', sans-serif;
+ }
+ .card-hover {
+    transition: background-color 0.4s, color 0.3s; /* Add transition for a smoother effect */
+}
+
+.card-hover:hover {
+    background-color: black;
+    color: white;
+}
+
+.decard-hover:hover{
+    background-color: white;
+}
+
+.subhead{   font-size: 500%;
+   
+    font-weight: 800 !important;
+    line-height: 60px;
+  }
+  .w-60{
+    width: 60%;
+  }
+  .ms-6{
+    margin-left: 6rem;
+  }
+  .mon{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2rem;
+    
+  }
+  
